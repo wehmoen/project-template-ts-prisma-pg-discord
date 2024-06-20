@@ -9,3 +9,8 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+// Need to have a model for Dockerfile to build the image
+model Dummy {
+  id Int @id @default(autoincrement())
+}
