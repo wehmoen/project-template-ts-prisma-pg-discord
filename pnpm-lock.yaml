@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@dotenvx/dotenvx':
-    specifier: ^0.44.6
-    version: 0.44.6
+    specifier: ^0.45.0
+    version: 0.45.0
   '@prisma/client':
     specifier: ^5.15.1
     version: 5.15.1(prisma@5.15.1)
@@ -112,8 +112,8 @@ packages:
       - utf-8-validate
     dev: false
 
-  /@dotenvx/dotenvx@0.44.6:
-    resolution: {integrity: sha512-njlGPIQenNKO6HHMalmLDY4XES0F17Ba8RoYuIt7h9PtyoZL3AzT783EePAdlweZsZD1xjDPSTgrA0hMSd7RAA==}
+  /@dotenvx/dotenvx@0.45.0:
+    resolution: {integrity: sha512-qjW6PDX3mONGQHSrI6LPzOCHn/RZPZuHThPrRZOvyo90pTMGQaCqRbcastl1Y3ZQlw0igdcKnk9pJSh5uYNLbg==}
     hasBin: true
     dependencies:
       '@inquirer/confirm': 2.0.17
