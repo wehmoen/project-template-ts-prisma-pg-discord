@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^0.44.1",
-    "@prisma/client": "^5.15.0"
+    "@prisma/client": "^5.15.1"
   }
 }
