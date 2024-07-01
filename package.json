@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^0.45.0",
-    "@prisma/client": "^5.15.1",
+    "@prisma/client": "^5.16.1",
     "discord.js": "^14.15.3"
   }
 }
