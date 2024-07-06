@@ -12,8 +12,8 @@ importers:
         specifier: ^0.45.0
         version: 0.45.0
       '@prisma/client':
-        specifier: ^5.15.1
-        version: 5.15.1(prisma@5.16.1)
+        specifier: ^5.16.1
+        version: 5.16.1(prisma@5.16.1)
       discord.js:
         specifier: ^14.15.3
         version: 14.15.3
@@ -244,8 +244,8 @@ packages:
     resolution: {integrity: sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==}
     engines: {node: '>=14'}
 
-  '@prisma/client@5.15.1':
-    resolution: {integrity: sha512-fmZRGmsUJ9+VwC/AvfP/PwdpD0xAEyPvNsD9/B3+GYpETq9VejVRT3PiqNvl76q1uYYzNZeo8u/LmzzTetHSEg==}
+  '@prisma/client@5.16.1':
+    resolution: {integrity: sha512-wM9SKQjF0qLxdnOZIVAIMKiz6Hu7vDt4FFAih85K1dk/Rr2mdahy6d3QP41K62N9O0DJJA//gUDA3Mp49xsKIg==}
     engines: {node: '>=16.13'}
     peerDependencies:
       prisma: '*'
@@ -1069,7 +1069,7 @@ snapshots:
   '@pkgjs/parseargs@0.11.0':
     optional: true
 
-  '@prisma/client@5.15.1(prisma@5.16.1)':
+  '@prisma/client@5.16.1(prisma@5.16.1)':
     optionalDependencies:
       prisma: 5.16.1
 
