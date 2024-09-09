@@ -25,7 +25,7 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.10.4",
+    "@dotenvx/dotenvx": "^1.14.0",
     "@prisma/client": "^5.18.0",
     "discord.js": "^14.15.3"
   }
